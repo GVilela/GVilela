@@ -22,6 +22,6 @@
   - :carousel_horse: Design lover 
   
 # Follow me!
-<a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="linkedin-Gabriela" height="50" width="50" href="https://linkedin.com/in/gabrielavvilela">
+<a href="https://linkedin.com/in/gabrielavvilela/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="linkedin-Gabriela" height="50" width="50" style="ma-width:100%">
 </a>
