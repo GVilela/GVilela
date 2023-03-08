@@ -16,9 +16,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg"  alt="adobe_photoshop" height="50" width="50"></img>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg"  alt="wordpress_icon" height="50" width="50"></img>
 
-  - :closed_lock_with_key: Security Information student 
-  - :japanese_ogre: Interested in malwares 
-  - :computer: Currently learning C# 
+  - :computer: Angular | .NET developer
+  - :closed_lock_with_key: InfoSec  
   - :carousel_horse: Design lover 
   
 # Follow me!
