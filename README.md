@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/GVilela/gabe/main/dev_avancado_es6.png"  alt="Desenvolvimento_avancado_ES6" height="50" width="50"></img>
   <img src="https://raw.githubusercontent.com/GVilela/gabe/main/intro_git_github.png"  alt="intro_ao_Github" height="50" width="50"></img>
   <img src="https://raw.githubusercontent.com/GVilela/gabe/main/intro_html_css.png"  alt="intro_html5_css3" height="50" width="50"></img>
-  <img src="https://raw.githubusercontent.com/GVilela/gabe/main/java_basico.png"  alt="Java_basico" height="50" width="50"></img>
   <img src="https://raw.githubusercontent.com/GVilela/gabe/main/logica_essencial.png"  alt="logica_essencial" height="50" width="50"></img>
   <img src="https://raw.githubusercontent.com/GVilela/gabe/main/oo_em_dotnet.png"  alt="orientacao_objeto_em_dotnet" height="50" width="50"></img>
   <img src="https://raw.githubusercontent.com/GVilela/gabe/main/primeiros_passos_dotnet.png"  alt="primeiros_passos_em_dotnet" height="50" width="50"></img>
